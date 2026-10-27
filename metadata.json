@@ -1,0 +1,6 @@
+{
+  "name": "NRC — Negative Rotation Crew Virtual Drift",
+  "description": "Plataforma oficial de inscrições em tempo real, categorias, pistas e regulamento do campeonato de FR Legends NRC — Negative Rotation Crew Virtual Drift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
